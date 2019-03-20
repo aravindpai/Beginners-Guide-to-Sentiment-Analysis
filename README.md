@@ -1,5 +1,5 @@
 # Beginners-Guide-to-Sentiment-Analysis
-This repository contains the code for **AV**'s practice problem on Twitter Sentiment Analysis with the detailed explanation of the approach as well as concepts used.
+This repository contains the code for **Analytics Vidhya**'s practice problem on Twitter Sentiment Analysis with the detailed explanation of the approach as well as concepts used.
 
 **Dataset**:
 
